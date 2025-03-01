@@ -13,6 +13,8 @@
 - **AI辅助翻译**：集成兼容openai格式的AI模型辅助翻译（可以使用one api转一下）
 - **响应式设计**：适配各种设备尺寸，提供良好的阅读体验
 - **管理员后台**：提供内容管理、用户管理、API设置等功能
+  
+## 项目截图
 
 
 ## 技术栈
@@ -20,7 +22,7 @@
 - **前端**：React 18、TypeScript、Tailwind CSS、React Router、Vite
 - **后端**：Supabase (PostgreSQL、Auth、Storage)
 - **API代理**：Node.js、Express (用于解决CORS问题)
-- **AI集成**：支持OpenAI、Anthropic Claude、Google Gemini等模型
+- **AI集成**：支持兼容OpenAI格式等模型（基本所有模型）
 
 ## 安装和设置
 
